@@ -1,7 +1,7 @@
-如何使用直链
+如何使用直链（镜像站）
 ====
-https://cdn.jsdelivr.net/gh/shedya/music/<文件路径>
+https://music-cdn.shed.cm/<文件路径>
 
 例如
 ----
-https://cdn.jsdelivr.net/gh/shedya/music/aespa/Dreams%20Come%20True.mp3
+https://music-cdn.shed.cm/Dreams%20Come%20True.mp3
